@@ -1,0 +1,23 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+@font-face {
+  font-family: Roboto;
+  src: url(../public/fonts/Roboto-Regular.ttf);
+}
+
+html {
+  font-family: Roboto;
+}
+
+img {
+  max-width: 100%;
+}
+
+a {
+  color: unset;
+  text-decoration: none;
+}

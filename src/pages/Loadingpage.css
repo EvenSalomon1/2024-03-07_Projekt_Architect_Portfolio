@@ -1,0 +1,15 @@
+.loadingpage {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.loadingpage h1 {
+  color: #666666;
+}
+
+.loadingpage img {
+  margin-bottom: 5vw;
+}
